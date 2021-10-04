@@ -19,7 +19,7 @@ With `value` types, each variable has its own copy of the data, and it is not po
 ## **Keywords used to declare Types**
 |Value Types   |Reference Types|
 |:------------:|:-------------:|
-|struct        |class          |
-|enum          |interface      |
-|              |delegate       |
-|              |record         |
+|[struct](./a.ValueTypes/struct/ReadMe.md)|[class](./b.ReferenceTypes/class/ReadMe.md)|
+|[enum](./a.ValueTypes/enum/ReadMe.md)|[interface](./b.ReferenceTypes/interface/ReadMe.md)|
+|     |[delegate](./b.ReferenceTypes/delegate/ReadMe.md)|
+|     |[record](./b.ReferenceTypes/record/ReadMe.md)|
