@@ -46,7 +46,7 @@ enum G
 default(G) // return 0, althought it's type remains as G
 ```
 
->Complete explaination click [here]((https://stackoverflow.com/questions/4967656/what-is-the-default-value-for-enum-variable)).
+>Complete explaination click [here](https://stackoverflow.com/questions/4967656/what-is-the-default-value-for-enum-variable).
 
 <br />
 
