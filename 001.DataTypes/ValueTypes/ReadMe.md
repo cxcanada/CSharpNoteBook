@@ -8,7 +8,6 @@ This differs from a variable of a *reference* type, which contains *a reference 
 
 By default, on assignment, passing an argument to a method, and returning a method result, variable values are copied. In the case of value-type variables, the corresponding type instances are copied.
 
-
 <br/>
 
 ## **Value Type behavior**
