@@ -35,7 +35,7 @@ IEnumerable<int> numbers = new int[] { 10, 20, 30 };
 ```
 
 
-- Memmory allocation - Stack and Heap
+- Memory allocation - Stack and Heap
   > More information click [here](https://www.youtube.com/watch?v=clOUdVDDzIM&t=5s)
     - stack: store local variables. 
       -  a value type variable holds *an instance of the type* in the stack (memory location).
